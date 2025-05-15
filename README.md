@@ -12,8 +12,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="![image](https://github.com/user-attachments/assets/bd618d50-a6e4-4fff-9985-21e19b6243d2)
-" alt="avatar do Gustavo" class="rounded-circle" width="150" height="150"
+        <img src="https://github.com/gustav-henri/portifolio/blob/main/tumblr_12798c9845872b7de5c2c854e0dc7ed6_78fa8b98_400.jpg"avatar do Gustavo" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Gustavo_</p>
         <h1>Eu estudo Programação</h1>
